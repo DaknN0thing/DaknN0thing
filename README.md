@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/wSu4CVSE"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))() 
+wait()
+print("Your mom lol")
